@@ -90,12 +90,23 @@ O NotebookLM foi utilizado como ferramenta de apoio para organizar as fontes, te
 
 A partir disso, foi possível estruturar um caderno de estudo mais eficiente e personalizado.
 
+
+## Evidências do NotebookLM
+
+Foram utilizados recursos do NotebookLM para organização do conteúdo, geração de resumos e testes de prompts.
  Conclusão
 
 Este projeto permitiu consolidar os conceitos básicos de programação, especialmente o uso de variáveis e valores.
 
 Além disso, evidenciou a importância da Inteligência Artificial como ferramenta de apoio ao aprendizado, facilitando a compreensão de conteúdos complexos de forma prática e acessível.
 
+## Conclusão
+
+Este projeto permitiu compreender de forma prática como funcionam as variáveis e valores na programação.
+
+Além disso, foi possível perceber como a Inteligência Artificial pode facilitar o aprendizado, tornando conteúdos complexos mais simples e acessíveis.
+
+Esse estudo fortaleceu minha base em programação e meu raciocínio lógico.
 ---
 
 ### Exemplo prático
