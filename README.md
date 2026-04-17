@@ -100,6 +100,27 @@ Este projeto permitiu consolidar os conceitos básicos de programação, especia
 
 Além disso, evidenciou a importância da Inteligência Artificial como ferramenta de apoio ao aprendizado, facilitando a compreensão de conteúdos complexos de forma prática e acessível.
 
+Evidências do uso do NotebookLM
+
+Prompts
+<img width="1344" height="625" alt="prompts" src="https://github.com/user-attachments/assets/eaea24dc-e9b8-4615-ba74-ec2fee74c159" />
+
+Fontes
+<img width="1349" height="633" alt="fontes" src="https://github.com/user-attachments/assets/61aa37c2-d44b-4de4-8ae2-4d5ba0ef9878" />
+
+Respostas
+<img width="1356" height="636" alt="respostas" src="https://github.com/user-attachments/assets/9bbfd72a-2b01-400a-b673-78fcc92b161c" />
+
+Caderno
+<img width="1349" height="634" alt="caderno" src="https://github.com/user-attachments/assets/8ec66800-2a46-49cc-87f2-88bab4a1a7c8" />
+
+Flashcards
+<img width="1351" height="638" alt="flashcards" src="https://github.com/user-attachments/assets/86a1245f-3675-42d9-892b-786589f8e3cb" />
+
+NotebookLM
+
+Link do caderno: (https://notebooklm.google.com/notebook/f4187f72-8fb9-4b85-9d9d-07b098da1592))
+
 ## Conclusão
 
 Este projeto permitiu compreender de forma prática como funcionam as variáveis e valores na programação.
