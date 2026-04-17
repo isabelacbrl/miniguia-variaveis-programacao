@@ -73,6 +73,29 @@ Variáveis são espaços onde armazenamos informações para usar depois.
 
 Valores são os dados que ficam dentro das variáveis, como números ou textos.
 
+Ajuste de Prompt
+
+Inicial:
+"O que são variáveis?"
+
+Melhorado:
+"Explique o que são variáveis de forma simples, com exemplos práticos para iniciantes"
+
+Resultado:
+As respostas ficaram mais claras e fáceis de entender.
+
+## Uso do NotebookLM
+
+O NotebookLM foi utilizado como ferramenta de apoio para organizar as fontes, testar prompts e gerar resumos automáticos.
+
+A partir disso, foi possível estruturar um caderno de estudo mais eficiente e personalizado.
+
+ Conclusão
+
+Este projeto permitiu consolidar os conceitos básicos de programação, especialmente o uso de variáveis e valores.
+
+Além disso, evidenciou a importância da Inteligência Artificial como ferramenta de apoio ao aprendizado, facilitando a compreensão de conteúdos complexos de forma prática e acessível.
+
 ---
 
 ### Exemplo prático
